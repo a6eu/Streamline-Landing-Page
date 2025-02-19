@@ -23,7 +23,7 @@ export default function Header() {
                     className="text-2xl font-bold text-medical-700 flex items-center"
                 >
                     <Heart className="w-6 h-6 mr-2 text-medical-500" />
-                    MediFlow
+                    Jedel Jardem
                 </Link>
             </div>
 

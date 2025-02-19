@@ -1,0 +1,85 @@
+{
+  "siteName": "MediFlow",
+  "nav": {
+    "features": "Features",
+    "testimonials": "Testimonials",
+    "pricing": "Pricing"
+  },
+  "cta": {
+    "getStarted": "Get Started",
+    "startTrial": "Start Your Free Trial"
+  },
+  "hero": {
+    "title": "Revolutionize Healthcare Delivery",
+    "description": "Enhance patient care and streamline medical services with our cutting-edge healthcare management platform."
+  },
+  "features": {
+    "title": "Powerful Features",
+    "list": [
+      {
+        "title": "Smart Dispatch",
+        "description": "Optimize ambulance routing and reduce response times with AI-powered dispatch."
+      },
+      {
+        "title": "Patient Tracking",
+        "description": "Real-time monitoring of patient status from dispatch to hospital admission."
+      },
+      {
+        "title": "Resource Management",
+        "description": "Efficiently allocate medical resources and staff across your healthcare network."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "list": [
+      {
+        "quote": "MediFlow has significantly reduced our emergency response times and improved patient outcomes.",
+        "author": "Dr. Sarah Johnson",
+        "position": "Emergency Department Director"
+      },
+      {
+        "quote": "The intuitive interface and powerful features make MediFlow an essential tool for modern healthcare management.",
+        "author": "Alex Kuznetsov",
+        "position": "Ambulance Service Coordinator"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "plans": [
+      {
+        "name": "Basic",
+        "price": "$99",
+        "features": ["5 ambulance units", "Basic analytics", "24/7 support"]
+      },
+      {
+        "name": "Pro",
+        "price": "$299",
+        "features": ["Unlimited ambulance units", "Advanced analytics", "Priority support", "Custom integrations"]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "features": [
+          "Full hospital integration",
+          "Dedicated account manager",
+          "On-premise deployment",
+          "24/7 phone support"
+        ]
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Ready to Improve Your Healthcare Services?",
+    "description": "Join healthcare providers already using MediFlow to enhance patient care and operational efficiency."
+  },
+  "footer": {
+    "description": "Empowering healthcare providers to save lives and improve patient outcomes.",
+    "product": "Product",
+    "company": "Company",
+    "connect": "Connect",
+    "copyright": "© {year} MediFlow. All rights reserved."
+  }
+}
+

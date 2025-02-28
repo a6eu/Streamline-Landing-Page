@@ -86,7 +86,8 @@ export default function Header() {
                 </Button>
                 <Button
                     onClick={() =>
-                        (window.location.href = 'http://localhost:3000/auth')
+                        (window.location.href =
+                            'https://jedel-jardem-next-production.up.railway.app/auth')
                     }
                     className="bg-medical-600 hover:bg-medical-700 text-white"
                 >
@@ -140,7 +141,7 @@ export default function Header() {
                         <Button
                             onClick={() =>
                                 (window.location.href =
-                                    'http://localhost:3000/auth')
+                                    'https://jedel-jardem-next-production.up.railway.app/auth')
                             }
                             className="bg-medical-600 hover:bg-medical-700 text-white"
                         >

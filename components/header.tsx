@@ -132,7 +132,13 @@ export default function Header() {
                         >
                             KZ
                         </Button>
-                        <Button className="bg-medical-600 hover:bg-medical-700 text-white">
+                        <Button
+                            onClick={() =>
+                                (window.location.href =
+                                    'http://localhost:3000/auth')
+                            }
+                            className="bg-medical-600 hover:bg-medical-700 text-white"
+                        >
                             Get Started
                         </Button>
                     </div>

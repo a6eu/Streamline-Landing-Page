@@ -53,7 +53,7 @@ export default function Hero() {
                     style={{ animationDelay: '0.8s' }}
                 >
                     <Image
-                        src="/placeholder.svg?height=500&width=500"
+                        src="/photo4.jpeg"
                         alt="Healthcare professionals using MediFlow"
                         layout="fill"
                         objectFit="cover"

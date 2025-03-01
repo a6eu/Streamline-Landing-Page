@@ -25,7 +25,7 @@ export default function Cta() {
                 </div>
                 <div className="md:w-1/2 relative h-[300px] md:h-[400px]">
                     <Image
-                        src="/placeholder.svg?height=400&width=600&text=Healthcare+Team"
+                        src="/photo5.jpeg"
                         alt="Healthcare team using MediFlow"
                         layout="fill"
                         objectFit="cover"

@@ -38,9 +38,9 @@ export default function Features() {
                             >
                                 <div className="relative h-40 mb-4 rounded-lg overflow-hidden">
                                     <Image
-                                        src={`/placeholder.svg?height=160&width=300&text=Feature+${
+                                        src={`/photo${
                                             index + 1
-                                        }`}
+                                        }.jpeg`}
                                         alt={feature.title}
                                         layout="fill"
                                         objectFit="cover"
